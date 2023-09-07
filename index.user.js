@@ -5,8 +5,8 @@
 // @version      1.4
 // @license      MIT
 // @homeurl      https://github.com/flrngel/github-old-feed.git
-// @updateURL    https://raw.githubusercontent.com/flrngel/github-old-feed/main/index.js
-// @downloadURL  https://raw.githubusercontent.com/flrngel/github-old-feed/main/index.js
+// @updateURL    https://raw.githubusercontent.com/flrngel/github-old-feed/main/index.user.js
+// @downloadURL  https://raw.githubusercontent.com/flrngel/github-old-feed/main/index.user.js
 // @namespace    http://tampermonkey.net/
 // @match        https://github.com/
 // @match        https://github.com/dashboard
