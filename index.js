@@ -4,7 +4,7 @@
 // @author       荣顶, flrngel
 // @version      1.4
 // @license      MIT
-// @homeurl      https://github.com/wangrongding/github-old-feed.git
+// @homeurl      https://github.com/flrngel/github-old-feed.git
 // @updateURL    https://raw.githubusercontent.com/flrngel/github-old-feed/main/index.js
 // @downloadURL  https://raw.githubusercontent.com/flrngel/github-old-feed/main/index.js
 // @namespace    http://tampermonkey.net/
