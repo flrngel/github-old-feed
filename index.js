@@ -28,6 +28,9 @@
       const dashboard = document.querySelector("#dashboard");
       const main = doc.querySelector('main');
       if (dashboard && main) dashboard.innerHTML = main.innerHTML;
+
+      // unfold
+      document.querySelectorAll('button[aria-expanded=false]').forEach((x)=>{if(x.previousElementSibling?.textContent.match(/release/) === null && x.previousElementSibling?.textContent.match(/follow/) === null ){x.click()}});
     })
     .catch(error => {
       console.error('Fetching the dashboard feed:', error);
