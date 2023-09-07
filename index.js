@@ -1,10 +1,12 @@
 // ==UserScript==
 // @name         Github Old Feed
 // @description  Replacing the shit💩 new version of the feed with the old one
-// @author       荣顶
-// @version      1.3
+// @author       荣顶, flrngel
+// @version      1.4
 // @license      MIT
 // @homeurl      https://github.com/wangrongding/github-old-feed.git
+// @updateURL    https://raw.githubusercontent.com/flrngel/github-old-feed/main/index.js
+// @downloadURL  https://raw.githubusercontent.com/flrngel/github-old-feed/main/index.js
 // @namespace    http://tampermonkey.net/
 // @match        https://github.com/
 // @match        https://github.com/dashboard
