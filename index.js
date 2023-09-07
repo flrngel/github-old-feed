@@ -10,6 +10,7 @@
 // @namespace    http://tampermonkey.net/
 // @match        https://github.com/
 // @match        https://github.com/dashboard
+// @grant        none
 // ==/UserScript==
 
 (function () {
