@@ -5,7 +5,7 @@ Replace the shit💩 new feed with the old one.
 ## Usage
 
 1. Install [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
-2. Install [github-old-feed](https://greasyfork.org/zh-CN/scripts/474728-github-old-feed)
+2. Click to install [github-old-feed](https://raw.githubusercontent.com/flrngel/github-old-feed/main/index.user.js)
 
 <table>
   <tr><td width="50%" align="center"><b>Before (the shit💩 new feed)</b></td></tr>
